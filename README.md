@@ -1,1 +1,4 @@
 # Axum-Web-Frame
+此Demo是在Axum web服务器以及http客户端库reqwest完成，达成了客户端发送request请求并且服务器返回response响应这一过程
+其中包含get请求和post请求，以及404示例
+环境：在配置好rust环境后，在此项目目录下终端运行cargo run命令即可
